@@ -1,2 +1,0 @@
-#!/bin/sh
-curl http://10.23.12.128:8081/git/notifyCommit?url=git://github.com/lisfo4ka/hello-world.git
