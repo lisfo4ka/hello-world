@@ -17,6 +17,6 @@
   </dependencies>
   <build>
     <finalName>hello_maven_${version}</finalName>
-    <outputDirectory>target/${version}</outputDirectory>
+    <outputDirectory>version</outputDirectory>
   </build>
 </project>
