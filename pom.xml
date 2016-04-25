@@ -16,6 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>hello_maven</finalName>
+    <finalName>hello_maven_${version}</finalName>
   </build>
 </project>
